@@ -12,4 +12,4 @@
 - Many commands was new for me, linux file system
 - **Globbing** surprised me
 - i'll use nano 2.5.3., many commands for navigation
-![Linux Command Line screenshot](/task_01/1.1_done.png)
+![Linux Command Line screenshot](/task_1/1.1_done.png)
