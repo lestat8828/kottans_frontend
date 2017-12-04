@@ -13,3 +13,15 @@
 - **Globbing** surprised me
 - i'll use nano 2.5.3., many commands for navigation
 ![Linux Command Line screenshot](/task_1/1.1_done.png)
+
+2. Configuring Linux Web Servers
+- about linux security 
+- information about Firewalls
+- Generating Key Pairs
+![Configuring Linux Web Servers screenshot](/task_1/1.2_done.png)
+
+3. Networking for Web Developers
+- almost all inforation was new for me
+- HTTP on TCP on IP, difference between **IPv4** and **IPv6**
+- ports, ping, hosts
+![Networking for Web Developers screenshot](/task_1/1.3_done.png)
