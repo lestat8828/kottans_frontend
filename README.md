@@ -37,4 +37,4 @@
 - how to use `git remote` and others interesting commands
 - possibility to delete commits with command `revert` and `remote`
 - will use in the future `git fetch` --> `git merge` and push to origin/master
-![GitHub & Collaboration screenshot](/task_2/task2_1_donee.png)
+![GitHub & Collaboration screenshot](https://github.com/lestat8828/kottans_frontend/blob/master/task_2/task2_1_donee%20.png?raw=true)
