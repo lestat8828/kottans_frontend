@@ -25,3 +25,16 @@
 - HTTP on TCP on IP, difference between **IPv4** and **IPv6**
 - ports, ping, hosts
 ![Networking for Web Developers screenshot](/task_1/1.3_done.png)
+
+## Task 2 ##
+0. What is Version Control
+- gitlog --oneline, --stat, -p, git show and many others
+- I was surprised by file .gitignore
+- will use in the future git `merge` and correct conflicts
+![What is Version Control screenshot](/task_2/task2_0_done.png)
+
+1. GitHub & Collaboration
+- how to use `git remote` and others interesting commands
+- possibility to delete commits with command `revert` and `remote`
+- will use in the future `git fetch` --> `git merge` and push to origin/master
+![GitHub & Collaboration](/task_2/task2_1_done.png)
