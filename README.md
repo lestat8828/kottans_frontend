@@ -44,4 +44,4 @@
 - I learned the names of the text editors that I have not met yet.
 - I did not learn anything new, I studied self-education and already know this information
 - All the knowledge that was provided during the course, I used earlier and will use them in the future.
-![Intro to HTML & CSS screenshot](/task_3/task3.png)
+![Intro to HTML & CSS screenshot](https://github.com/lestat8828/kottans_frontend/blob/master/task_3/task_3.png)
