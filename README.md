@@ -52,4 +52,4 @@
 - I learned interesting information abou Media queries.
 - I was surprised by "viewport" meta content
 - I will use in the future `min/max-width/height` and other commands
-[Responsive Web Design Fundamentals](/task_4/task4_done.png)
+![Responsive Web Design Fundamentals](/task_4/task4_done.png)
