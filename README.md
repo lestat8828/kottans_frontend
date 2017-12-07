@@ -40,8 +40,16 @@
 ![GitHub & Collaboration screenshot](https://github.com/lestat8828/kottans_frontend/blob/master/task_2/task2_1_donee%20.png?raw=true)
 
 ## Task 3 ##
-1.Intro to HTML & CSS
+1. Intro to HTML & CSS
 - I learned the names of the text editors that I have not met yet.
 - I did not learn anything new, I studied self-education and already know this information
 - All the knowledge that was provided during the course, I used earlier and will use them in the future.
 ![Intro to HTML & CSS screenshot](https://github.com/lestat8828/kottans_frontend/blob/master/task_3/task_3.png)
+
+## Task 4 ##
+
+1. Responsive Web Design Fundamentals
+- I learned interesting information abou Media queries.
+- I was surprised by "viewport" meta content
+- I will use in the future `min/max-width/height` and other commands
+[Responsive Web Design Fundamentals](/task_4/task4_done.png)
