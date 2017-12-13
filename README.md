@@ -49,7 +49,15 @@
 ## Task 4 ##
 
 1. Responsive Web Design Fundamentals
-- I learned interesting information abou Media queries.
+- I learned interesting information about Media queries.
 - I was surprised by "viewport" meta content
 - I will use in the future `min/max-width/height` and other commands
 ![Responsive Web Design Fundamentals](/task_4/task4_done.png)
+
+## Task 5 ##
+
+1. Intro to JS
+- I learned many interesting information about if/else statements, falsy and trusy values, loops, scopes and arrays.
+- I was surprised by Objects and Arrays properties
+- I will use various commands in the future, such as `\ n` and `\ t`, and I will definitely use `console.log()`.
+![Intro to JS](/task_5/task5_done.png)
