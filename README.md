@@ -70,5 +70,6 @@
 - I will use parameter `this`.
 ![Object Oriented JS](/task_6/task6_done.png).
 
-![GAME_show](https://lestat8828.github.io/frontend-nanodegree-arcade-game/).
+![GAME_show]
+			 https://lestat8828.github.io/frontend-nanodegree-arcade-game/
 
