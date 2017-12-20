@@ -61,3 +61,14 @@
 - I was surprised by Objects and Arrays properties
 - I will use various commands in the future, such as `\ n` and `\ t`, and I will definitely use `console.log()`.
 ![Intro to JS](/task_5/task5_done.png)
+
+## Task 6 ##
+
+1. Object Oriented JS
+- It was very difficult for me too understand how it must to work, but become very interesting when see some progress in code.
+- I was surprised by Scopes, Arrays, Functions.
+- I will use parameter `this`.
+![Object Oriented JS](/task_6/task6_done.png).
+
+![GAME](https://github.com/lestat8828/frontend-nanodegree-arcade-game/blob/master/index.html).
+
